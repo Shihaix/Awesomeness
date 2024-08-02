@@ -1,0 +1,5 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",LANGUAGE="eng",NAME="English",AUTOSELEC T=YES,DEFAULT=YES,URI="https://222861.global.ssl.fastly.net/6698cc14fa04165068a80345/live_e5f0c8504d8b11efbacf2feeebc6c76f/tracks-a1/index.fmp4.m3u8"
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000000,AUDIO="URI"
+https://222861.global.ssl.fastly.net/6698cc14fa04165068a80345/live_e5f0c8504d8b11efbacf2feeebc6c76f/tracks-v1/index.fmp4.m3u8
