@@ -1,5 +1,5 @@
 #EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",LANGUAGE="Auto",NAME="Auto",AUTOSELEC T=YES,DEFAULT=YES,URI="https://222861.global.ssl.fastly.net/6698cc14fa04165068a80345/live_e5f0c8504d8b11efbacf2feeebc6c76f/tracks-a1/index.fmp4.m3u8"
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3500000,AUDIO="URI"
-https://222861.global.ssl.fastly.net/6698cc14fa04165068a80345/live_e5f0c8504d8b11efbacf2feeebc6c76f/tracks-v1/index.fmp4.m3u8
+#EXT-X-INDEPENDENT-SEGMENTS
+
+#EXT-X-STREAM-INF:BANDWIDTH=2358400,AVERAGE-BANDWIDTH=2270400,CODECS="avc1.4d402a,mp4a.40.2",RESOLUTION=1280x720,FRAME-RATE=25
+https://tonton-live-sg3.akamaized.net/live-hls/tonton8_720p/hdntl=exp=1741258705~acl=%2f*~data=hdntl~hmac=21fc3d9842191b7b424fd8387dd8de86466d9a59b354740cd0f3a86ad8355121/index.m3u8
